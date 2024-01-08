@@ -1,0 +1,24 @@
+Temp/
+Assets/3DModels-20230831T053757Z-001/
+Library/
+Assets/oculus-controller-art-v1.5/oculus-controller-art-v1.5/
+TPE.apk
+TPE_vr.apk
+TPE_vr2.apk
+TPE_vr.apk
+
+
+# Fichiers et dossiers volumineux à exclure
+#Assets/3D\ Models-20230831T053757Z-001/3D Models/Avatars/Female_Adult_01/Export/Female_Adult_01_utralowpoly.fbx
+#Assets/3D\ Models-20230831T053757Z-001/3D Models/City/esieeE3_0.fbx
+#Assets/oculus-controller-art-v1.5/oculus-controller-art-v1.5/Oculus\ Touch\ for\ Quest\ 2/quest2_controllers_div2.fbx
+#Library/ArtifactDB
+#Library/Artifacts/18/18cd4a8bd67da9239b38eb807ae8af6f
+#Library/Artifacts/6f/6fa2e4e8ff06df1d163093d1eec3a66f
+
+#Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+#Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+#Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/mergeReleaseAssets/bin/Data/data.unity3d
+#Assets/3D Models-20230831T053757Z-001/3D Models/Cars/high\ poly/Audi_A4_Avant_2013.fbx
+#Assets/3D Models-20230831T053757Z-001/3D Models/Cars/high\ poly/BMW_3-series_(Mk6)_(F31)_touring_LuxuryLine_2015.fbx
+
